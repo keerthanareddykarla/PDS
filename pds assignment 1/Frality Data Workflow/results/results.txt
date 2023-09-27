@@ -1,0 +1,4 @@
+When the original encoded dataset is subjected to the t-test, there is no statistically significant distinction between grip strength and frailty.
+The dataset size is rather little, as I've noticed. This lessens the T-test's statistical power.
+
+I did the t-test on the larger dataset after expanding it using various mean and standard deviation values. The outcome demonstrates that grip strength and frailty differ in a statistically meaningful way.

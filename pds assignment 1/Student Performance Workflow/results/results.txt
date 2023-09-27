@@ -1,0 +1,13 @@
+Box plot of Parental Level of Education vs. Average Score:
+Students whose parents have earned master's degrees perform better than the average student.
+
+Histogram of Test Preparation vs Average Score
+Students who have completed the preparation course received higher scores than the other students.
+
+Bar chart of Gender vs Average Score
+Female average score is higher than male
+
+Scatter plot of Race/Ethnicity vs average score:
+Students from Group C have a higher proportion of lunch compared to other students.
+
+ 
